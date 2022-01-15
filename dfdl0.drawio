@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T06:12:31.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FWnkWIHgDOxJB10l--zl" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T06:46:15.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="9os2_vpXTpNA4IXSr5Mt" version="16.2.7" type="github">
   <diagram id="TOsZEdzZp91fuENZdWgG" name="Page-1">
-    <mxGraphModel dx="1967" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2588" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,7 +252,7 @@
         <mxCell id="DNsANZ6tWJD0aadf25Gj-35" value="&lt;font style=&quot;font-size: 13px&quot;&gt;ORDER DETAILS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-70" y="1010" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="DNsANZ6tWJD0aadf25Gj-36" value="1.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-36" value="1.0" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="90" y="740" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DNsANZ6tWJD0aadf25Gj-37" value="PROCESS PAYMENT" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="DNsANZ6tWJD0aadf25Gj-36">
@@ -325,6 +325,54 @@
         </mxCell>
         <mxCell id="DNsANZ6tWJD0aadf25Gj-53" value="&lt;span style=&quot;font-size: 13px&quot;&gt;TICKET INFORMATION&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-390" y="920" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-54" value="0" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="750" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-55" value="&#xa;   ZOO MELAKA TICKET SYSTEM " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="DNsANZ6tWJD0aadf25Gj-54">
+          <mxGeometry y="30" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-56" value="CUSTOMER" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="750" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-57" value="ZOO MELAKA STAFF" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="760" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-58" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.008;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.009;exitY=0.705;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DNsANZ6tWJD0aadf25Gj-55" target="DNsANZ6tWJD0aadf25Gj-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="845" as="sourcePoint" />
+            <mxPoint x="1670" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-59" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Book Ticket&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="830" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-60" value=" view Ticket  Details" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=1;labelBackgroundColor=#FFFFFF;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="760" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-62" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="850.01" as="sourcePoint" />
+            <mxPoint x="1350" y="850.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-63" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="780.01" as="sourcePoint" />
+            <mxPoint x="1350" y="780.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-65" value="view booking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-66" value="create ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="755" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNsANZ6tWJD0aadf25Gj-67" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.008;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.009;exitY=0.705;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1590" y="780.0000000000002" as="sourcePoint" />
+            <mxPoint x="1709.4399999999996" y="780.9100000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
