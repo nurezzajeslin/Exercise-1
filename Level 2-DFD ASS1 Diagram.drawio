@@ -1,1 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T15:53:11.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" version="17.4.5" etag="va-m5vcWYXANwfYnbe1J" type="github"><diagram id="HkxV91gXvVfibFtQ06Zh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-18T17:25:50.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="5n1IXeaU3bQQU32Jti3h" version="17.4.5" type="github">
+  <diagram id="HkxV91gXvVfibFtQ06Zh" name="Page-1">
+    <mxGraphModel dx="920" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="8ltCED5Jp_OqBnS5Xvw1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-1" value="3.2.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-2" value="Format Patient&#39;s Health Report" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="8ltCED5Jp_OqBnS5Xvw1-1">
+          <mxGeometry y="30" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-4" value="3.2.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=12;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="750" y="130" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-5" value="Print Patient&#39;s Health Report" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="8ltCED5Jp_OqBnS5Xvw1-4">
+          <mxGeometry y="30" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="8ltCED5Jp_OqBnS5Xvw1-2" target="8ltCED5Jp_OqBnS5Xvw1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-10" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Formatted Patient&#39;s Health Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="570" y="150" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="8ltCED5Jp_OqBnS5Xvw1-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-12" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Health Report&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="940" y="150" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-15" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Patient&#39;s Health Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="255" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-16" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="150" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8ltCED5Jp_OqBnS5Xvw1-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Patient Health Record&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="157.5" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
